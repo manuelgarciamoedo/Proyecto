@@ -15,6 +15,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 			.clear{
 				clear:both;
 			}
+			iframe{
+			float:right;
+			margin-right:20px;
+			
+			
+		
+		
+			}
 			#contenedor{
 			width:100%;
 	margin: 0 auto;
@@ -132,7 +140,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 			#resultados a{
 				color:white;
 				font-size:20;
+				
 			}
+		
 			#imagenes h1{
 				color:yellow;
 			}
@@ -216,7 +226,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 				
 				margin-left:30px;
 				font-size:2em;
-				color:03BE2E
+				color:03BE2E;
+				
+				
+			}
+			#regatas a:hover{
+			background-color:red;
+			color:white;
 			}
 			#pie{
 				background-color:#181515;

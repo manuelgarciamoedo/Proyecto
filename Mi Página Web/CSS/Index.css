@@ -16,6 +16,7 @@ background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1)
 background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 28%, rgba(33,180,226,1) 51%, rgba(183,222,237,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=0 );
 			}
+		
 			.clear{
 				clear:both;
 			}
@@ -100,6 +101,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 				float:left;
 				text-align: center;
 				background-color:#000080;
+			
 				
 			}
 			#noticias h1{

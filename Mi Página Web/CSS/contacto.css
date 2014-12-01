@@ -28,7 +28,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 				background-color:#00FFFF;
 				margin:0 auto;
 				
-				width: 1025px;
+				width: 1010px;
 				padding:2px;
 				
 			}
@@ -163,6 +163,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', end
 		margin-left:325px;
 		background-color:blue;
 		text-align:center;
+		border-radius:20;
 	}
 	article label{
 		font-size:2em;
